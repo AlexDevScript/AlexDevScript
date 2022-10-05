@@ -6,7 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
-### 🖥️ Frontend
+### 🖥️ Front-end
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Styled-Components](https://shields.io/badge/styled--components-ffffff?logo=styledcomponents&style=flat-square)
 
