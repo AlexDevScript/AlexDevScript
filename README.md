@@ -1,7 +1,5 @@
 
 
-<img src="https://user-images.githubusercontent.com/87250313/193995488-c9f23750-be2a-4e6b-825f-4bf2f862b588.gif" alt="Luffy" width="170px" height="230" align="right">
-
 <h2 align="center"> 🚀 Tecnologías y Herramientas </h2>
 
 <p align="center">
