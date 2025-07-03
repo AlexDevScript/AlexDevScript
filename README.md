@@ -1,4 +1,4 @@
-![front-end](https://user-images.githubusercontent.com/87250313/194147100-b7c19d19-1e68-468a-a227-651e8a4c53c5.png)
+
 
 <img src="https://user-images.githubusercontent.com/87250313/193995488-c9f23750-be2a-4e6b-825f-4bf2f862b588.gif" alt="Luffy" width="170px" height="230" align="right">
 
